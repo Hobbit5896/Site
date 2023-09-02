@@ -1,0 +1,49 @@
+*{
+ margin: auto;
+ padding: 0;
+}
+
+body{
+    background-image: url(Imagens/back.jpeg); background-repeat: no-repeat;  background-attachment: fixed; background-size: cover;
+}
+
+.title{
+    font-family: "Indie-Flower", cursive;
+}
+
+.text{
+    font-family: "Indie-Flower", cursive;
+    position: absolute;
+    
+}
+
+.text2{
+    align-self: flex-start;
+    background: rgb(248,0,255);
+    background: linear-gradient(90deg, rgba(247, 0, 255, 0.49) 15%, rgba(95, 9, 121, 0.478) 47%, rgba(247, 0, 255, 0.381) 100%); border-radius: 10px;
+}
+
+.soneto{
+    float: left; 
+}
+
+.soneto2{
+    position: absolute;
+    padding-left: 650px; padding-top: 200px ;
+    float: right; 
+}
+
+.poema{
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.amor{
+    height: 550px;
+    width: 600px;
+}
+
+.amor2{
+    height: 550px;
+    width: 600px;
+    position: absolute;
+}
